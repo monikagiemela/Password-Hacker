@@ -8,17 +8,11 @@ json,
 string,
 datetime.
 
-Intro to Password Hacker project provided by JetBrains:
-
-All sorts of creatures lurk around the Internet, including trolls, pirates, miners – and hackers. In this project you’ll wear the hat of a real hacker. You must connect to a secret server without knowing the password. Your task is to write a Python program that can hack this password, and do so in the quickest way possible.
-
-Learning outcomes
-You will learn how hacking works. You will work with iterators and generators, and you’ll learn a little something about the itertools module – one of the most powerful features of Python. You will practice developing a client app and connecting to a server using the socket module. The project will also get you acquainted with JSON and the time module.
 
 This project is a part of the following track
 Python Developer
 
-What you’ll do and what you’ll learn
+
 Stage 1/5: Server connection
 For starters, let’s pretend the admin's website isn't protected at all. Learn how to connect to the server and receive data from it to access private information.
 
@@ -33,12 +27,3 @@ The admin is really taking the case seriously. Now it is necessary to specify a 
 
 Stage 5/5: Time vulnerability
 The admin has reacted quickly and made a patch that removes the vulnerability. It's time to look for another one. Poor admin…
-
-About
-JetBrains Academy Project: Password Hacker
-ng
-Blog
-About
-
-
-
