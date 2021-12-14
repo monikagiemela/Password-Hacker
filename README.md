@@ -1,4 +1,4 @@
-# jetbrains Password Hacker
+# jetbrains | Password Hacker
 
 This is a Password Hacker Project from Jet Brains Academy.
 This project uses different Python modules: 
